@@ -1,6 +1,6 @@
 # TransferPortal
 
-Ethan Davis (edavi117), ECE465 Final Project (Deliverable 6)
+Ethan Davis, ECE465 Final Project
 
 ## Project Overview
 
